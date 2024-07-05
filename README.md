@@ -30,6 +30,7 @@ The File Compression Tool is a simple utility designed to compress and decompres
     ```bash
     echo > sample.txt
     ```
+    Open the file in a text editor and enter your content.
 
 3. Run the code :
     ```bash
