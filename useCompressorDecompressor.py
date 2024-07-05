@@ -1,7 +1,7 @@
 from CompressorDecompressor import HuffmanCoding
 import sys
 
-path = "sherlockholmes.txt"
+path = "sample.txt"
 
 h = HuffmanCoding(path)
 
